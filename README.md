@@ -99,7 +99,4 @@ The final version, the Bootstrap version, is prepared with a small set to test r
 - [Bootstrap](https://www.floydhub.com/emilwallner/datasets/imagetocode)
 - [HTML](https://www.floydhub.com/emilwallner/datasets/html_models)
 
-## Acknowledgments
-- Thanks to IBM for donating computing power through their PowerAI platform
-- The code is largely influenced by Tony Beltramelli's pix2code paper. [Code](https://github.com/tonybeltramelli/pix2code) [Paper](https://arxiv.org/abs/1705.07962)
-- The structure and some of the functions are from Jason Brownlee's [excellent tutorial](https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/)
+
